@@ -1,9 +1,17 @@
 body {
-    background-color: #f0f0f0;
+    background-color: #386986;
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 20px;
     text-align: center;
+}
+
+.container {
+    max-width: 600px;
+    margin: 0 auto;
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 8px;
 }
 
 h1 {
@@ -16,6 +24,7 @@ p {
     margin-bottom: 30px;
     font-size: 18px;
 }
+
 
 button {
     background-color: #4CAF50;
